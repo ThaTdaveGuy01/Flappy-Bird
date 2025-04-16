@@ -1,0 +1,3 @@
+HighScoreNumber1: 14
+HighScoreNumber2: 14
+HighScoreNumber3: 12
